@@ -4,7 +4,7 @@ Test project: URL shortener with QR.
 
 ## Install
 1. clone repository "git clone https://github.com/voronbeats/shortlink.git"
-2. composer update
+2. composer require endroid/qr-code
 3. configure db in config/db.php
 4. run migrate
 5. php yii serve
